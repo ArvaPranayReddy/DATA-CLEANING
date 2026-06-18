@@ -94,17 +94,6 @@ Analyzed patterns such as:
 * Google colab
 
 ---
-
-## 📁 Project Structure
-
-```
-Airbnb-Data-Cleaning/
-│
-├── EDA_DATACLEANING_AIRBNB.ipynb
-├── dataset.csv
-└── README.md
-```
-
 ---
 
 ## 🎯 Conclusion
